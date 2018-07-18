@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/RecipeBook.Solution/RecipeBook/bin/Debug/netcoreapp1.1/RecipeBook.deps.json
+/Users/Guest/Desktop/RecipeBook.Solution/RecipeBook/bin/Debug/netcoreapp1.1/RecipeBook.runtimeconfig.json
+/Users/Guest/Desktop/RecipeBook.Solution/RecipeBook/bin/Debug/netcoreapp1.1/RecipeBook.runtimeconfig.dev.json
+/Users/Guest/Desktop/RecipeBook.Solution/RecipeBook/obj/Debug/netcoreapp1.1/RecipeBook.AssemblyInfo.cs
+/Users/Guest/Desktop/RecipeBook.Solution/RecipeBook/bin/Debug/netcoreapp1.1/RecipeBook.dll
+/Users/Guest/Desktop/RecipeBook.Solution/RecipeBook/bin/Debug/netcoreapp1.1/RecipeBook.pdb
+/Users/Guest/Desktop/RecipeBook.Solution/RecipeBook/obj/Debug/netcoreapp1.1/RecipeBook.dll
+/Users/Guest/Desktop/RecipeBook.Solution/RecipeBook/obj/Debug/netcoreapp1.1/RecipeBook.pdb

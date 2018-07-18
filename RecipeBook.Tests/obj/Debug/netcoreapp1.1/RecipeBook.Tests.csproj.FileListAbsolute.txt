@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/RecipeBook.Solution/RecipeBook.Tests/bin/Debug/netcoreapp1.1/RecipeBook.Tests.deps.json
+/Users/Guest/Desktop/RecipeBook.Solution/RecipeBook.Tests/bin/Debug/netcoreapp1.1/RecipeBook.Tests.runtimeconfig.json
+/Users/Guest/Desktop/RecipeBook.Solution/RecipeBook.Tests/bin/Debug/netcoreapp1.1/RecipeBook.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/RecipeBook.Solution/RecipeBook.Tests/obj/Debug/netcoreapp1.1/RecipeBook.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/RecipeBook.Solution/RecipeBook.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/RecipeBook.Solution/RecipeBook.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/RecipeBook.Solution/RecipeBook.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/RecipeBook.Solution/RecipeBook.Tests/bin/Debug/netcoreapp1.1/RecipeBook.Tests.dll
+/Users/Guest/Desktop/RecipeBook.Solution/RecipeBook.Tests/bin/Debug/netcoreapp1.1/RecipeBook.Tests.pdb
+/Users/Guest/Desktop/RecipeBook.Solution/RecipeBook.Tests/bin/Debug/netcoreapp1.1/RecipeBook.dll
+/Users/Guest/Desktop/RecipeBook.Solution/RecipeBook.Tests/bin/Debug/netcoreapp1.1/RecipeBook.pdb
+/Users/Guest/Desktop/RecipeBook.Solution/RecipeBook.Tests/obj/Debug/netcoreapp1.1/RecipeBook.Tests.dll
+/Users/Guest/Desktop/RecipeBook.Solution/RecipeBook.Tests/obj/Debug/netcoreapp1.1/RecipeBook.Tests.pdb
